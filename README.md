@@ -1,3 +1,4 @@
+## About Me
 - 👋 Hi, I’m @prakharporwal
 - 👀 I’m interested in Product Development (Full Stack)
 - 🌱 I’m currently learning ... React Typescript and Go
@@ -9,6 +10,12 @@
 prakharporwal/prakharporwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Projects
+### Retrofeed
+#### Perform Retrospection on the "How the Sprint went".
+- Updates UI in Real-Time using websocket.
+- React Typescript based frontend , Spring Boot in the backend.
+- Contains JWT based session management 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharporwal&show_icons=true&theme=material-palenight)
 
