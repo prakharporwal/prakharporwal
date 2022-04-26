@@ -1,10 +1,10 @@
 ## About Me
 - 👋 Hi, I’m @prakharporwal
-- 👀 I’m interested in Product Development (Full Stack)
+- 👀 I’m interested in Full Development (Full Stack)
 - 🌱 I’m currently learning ... React Typescript and Go
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
 <!-- 💞️ I’m looking to collaborate on--> 
-- 📫 Reach me on twitter - [@prakharporwall](https://twitter.com/prakharporwall)
+- 📫 Reach me on twitter - [@prakharporwall](https://twitter.com/prakhartwt)
 
 <!---
 prakharporwal/prakharporwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
