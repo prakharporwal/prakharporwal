@@ -3,6 +3,7 @@
 - 👀 I’m interested in Full Development (Full Stack)
 - 🌱 I’m currently learning ... React Typescript and Go
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
+- Contributing to [Kubernetes](https://github.com/kubernetes/kubernetes)
 <!-- 💞️ I’m looking to collaborate on--> 
 - 📫 Reach me on twitter - [@prakhartwt](https://twitter.com/prakhartwt)
 
@@ -11,6 +12,17 @@ prakharporwal/prakharporwal is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ## Projects
+
+### [Bank Server](https://github.com/prakharporwal/bank-server)
+- A simple bank server to explore 
+  - DB transactions
+  - DevOps process
+  - Making Docker images
+  - Deploying to K8s
+  - Monitor using Prometheus
+
+
+
 ### Retrofeed
 #### Perform Retrospection on the "How the Sprint went".
 - Updates UI in Real-Time using websocket.
