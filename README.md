@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @prakharporwal
 - 👀 I’m a DevOps Engineer
-- 🌱 I’m currently learning Kubernetes, Docker, DevOps and Go
+- 🌱 I’m currently building using tech like Kubernetes, Docker, DevOps and Go.
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
 - Contributing to [Kubernetes](https://github.com/kubernetes/kubernetes)
 <!-- 💞️ I’m looking to collaborate on--> 
