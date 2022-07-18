@@ -1,11 +1,12 @@
 ## About Me
 - 👋 Hi, I’m @prakharporwal
-- 👀 I’m a DevOps Engineer
-- 🌱 I’m currently building using tech like Kubernetes, Docker, DevOps and Go.
+- 👀 I’m a Software Engineer.Currently Exploring DevOps
+- Learning about tech like Kubernetes, Docker, DevOps and Go.
+- 🌱 I’m currently building Spotify-clone.
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
 - Contributing to [Kubernetes](https://github.com/kubernetes/kubernetes)
 <!-- 💞️ I’m looking to collaborate on--> 
-- 📫 Reach me on twitter - [@prakhartwt](https://twitter.com/prakhartwt)
+<!-- 📫 Reach me on twitter - [@prakhartwt](https://twitter.com/prakhartwt) -->
 
 <!---
 prakharporwal/prakharporwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
