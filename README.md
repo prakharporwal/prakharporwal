@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @prakharporwal
-- 👀 I’m a Software Engineer.Currently Exploring DevOps
-- Learning about tech like Kubernetes, Docker, DevOps and Go.
+- 👀 I’m a Software Engineer, currently exploring DevOps
+- Learning about tech Kubernetes, Docker, DevOps and Go.
 - 🌱 I’m currently building Spotify-clone.
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
 - Contributing to [Kubernetes](https://github.com/kubernetes/kubernetes)
