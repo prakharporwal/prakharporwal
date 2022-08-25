@@ -6,7 +6,11 @@ Exploring backend architecture and High Level Design
 I am a self-driven individual, eager to build new and innovative products.
 The main idea of code is to automate a process and make machines work.
 
+## My Projects
+#### React
 - 🌱 I’m currently building [Spotify-clone](https://prakharporwal.github.io/bank-server).
+
+## Open Source
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
 <!-- 💞️ I’m looking to collaborate on--> 
 <!-- 📫 Reach me on linkedin - [@porwalprakhar](https://linkedin.com/in/porwalprakhar) -->
