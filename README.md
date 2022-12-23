@@ -8,7 +8,7 @@ The main idea of code is to automate a process and make machines work.
 
 ## My Projects
 #### React
-- 🌱 I’m currently building [Spotify-clone](https://prakharporwal.github.io/bank-server).
+- 🌱 I’m currently building [Spotify-clone](https://github.com/prakharporwal/spotify-clone).
 
 ## Open Source
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
