@@ -1,17 +1,17 @@
 ## About Me
-- 👋 Hi, I’m @prakharporwal
-- 👀 I’m a Software Engineer,
-Exploring backend architecture and High Level Design
-
-I am a self-driven individual, eager to build new and innovative products.
-The main idea of code is to automate a process and make machines work.
+- 👋 Hi, I’m Prakhar Porwal, a Software Engineer, exploring backend architecture and High Level Design.
+I enjoy exploring new technologies and build using them.
 
 ## My Projects
 #### React
-- 🌱 I’m currently building [Spotify-clone](https://prakharporwal.github.io/spotify-clone/).
+- 🌱 Completed building [Spotify-clone](https://prakharporwal.github.io/spotify-clone/).
+- Exploring WebRTC, Making a browser based Video Conferencing App () 
+
+#### Go
+A Backend for a bank server using Go Postgres. [bank-server](https://github.com/prakharporwal/bank-server)
 
 ## Open Source
-- Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard)
+- Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard/issues?q=assignee%3A%40me+is%3Aclosed)
 <!-- 💞️ I’m looking to collaborate on--> 
 <!-- 📫 Reach me on linkedin - [@porwalprakhar](https://linkedin.com/in/porwalprakhar) -->
 <!-- 📫 Reach me on twitter - [@prakhartwt](https://twitter.com/prakhartwt) -->
