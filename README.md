@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I’m Prakhar Porwal, a Software Engineer, exploring backend architecture and High Level Design.
-I enjoy exploring new technologies and build using them.
+- I enjoy exploring new technologies and build using them.
 
 ## My Projects
 #### React
@@ -8,7 +8,7 @@ I enjoy exploring new technologies and build using them.
 - Exploring WebRTC, Making a browser based Video Conferencing App () 
 
 #### Go
-A Backend for a bank server using Go Postgres. [bank-server](https://github.com/prakharporwal/bank-server)
+- A Backend for a bank server using Go Postgres. [bank-server](https://github.com/prakharporwal/bank-server)
 
 ## Open Source
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard/issues?q=assignee%3A%40me+is%3Aclosed)
