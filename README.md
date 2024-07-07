@@ -1,15 +1,19 @@
 ## About Me
-- 👋 Hi, I’m Prakhar Porwal, a Software Engineer, exploring backend architecture and High Level Design.
-- I enjoy exploring new technologies and build using them.
+- 👋 Hi, I’m Prakhar Porwal, a Software Engineer, with experience in building UI and their backend along with deploying them on clouds.
+- I enjoy exploring new technologies and build stuff using them
+
+
+# Interesting things I am doing right now
+- Hosting jitsi server on EC2 to create my own instance for online meetings.
+- https://github.com/jitsi/jitsi-meet
 
 ## My Projects
 #### React
 - 🌱 Completed building [Spotify-clone](https://prakharporwal.github.io/spotify-clone/).
-- Exploring WebRTC, Making a browser based Video Conferencing App () 
 
 #### Go
-- A Backend for a bank server using Go Postgres. [bank-server](https://github.com/prakharporwal/bank-server)
-
+- A platform to make posts to multiple social platform (linkedin, twitter) [socialhub](https://github.com/prakharporwal/socialhub)
+  
 ## Open Source
 - Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard/issues?q=assignee%3A%40me+is%3Aclosed)
 <!-- 💞️ I’m looking to collaborate on--> 
