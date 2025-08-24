@@ -1,29 +1,18 @@
 ## About Me
 - 👋 Hi, I’m Prakhar Porwal, a Software Engineer, with experience in building UI and their backend along with deploying them on clouds.
-- I enjoy exploring new technologies and build stuff using them
-
+- My Goals by end of this year 
+1. Make a react native App live for production with a graphql api support and rn bundle publishing for android and iOS
+2. 
 
 # Interesting things I am doing right now
-- Hosting jitsi server on EC2 to create my own instance for online meetings.
-- https://github.com/jitsi/jitsi-meet
 
 ## My Projects
-#### React
-- 🌱 Completed building [Spotify-clone](https://prakharporwal.github.io/spotify-clone/).
 
-#### Go
+### Sociohub
 - A platform to make posts to multiple social platform (linkedin, twitter) [socialhub](https://github.com/prakharporwal/socialhub)
   
 ## Open Source
-- Contributing to [Focalboard at Mattermost](https://github.com/mattermost/focalboard/issues?q=assignee%3A%40me+is%3Aclosed)
-<!-- 💞️ I’m looking to collaborate on--> 
-<!-- 📫 Reach me on linkedin - [@porwalprakhar](https://linkedin.com/in/porwalprakhar) -->
-<!-- 📫 Reach me on twitter - [@prakhartwt](https://twitter.com/prakhartwt) -->
 
-<!---
-prakharporwal/prakharporwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!-- ## Stats -->
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharporwal&show_icons=true&theme=material-palenight)
